@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_add_circle.png",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/src/main/res/drawable-mdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_image_control_point_duplicate.png",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/src/main/res/drawable-mdpi/ic_image_control_point_duplicate.png"
+    }
+]

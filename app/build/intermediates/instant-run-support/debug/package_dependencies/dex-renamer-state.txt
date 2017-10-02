@@ -1,0 +1,13 @@
+#Mon Oct 02 13:51:17 CDT 2017
+renamed.3=classes3.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+renamed.0=classes2.dex
+base.3=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_1a2eca459346881b9fda5b9708fc5f84f852fcf4
+base.2=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f41046ee26e8e8a3955a89c868dce194eaee7e6
+base.1=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-recyclerview_47d71b050f06ca1a5460b78f779f7f2a95ce6ec7
+base.0=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_29a2038188f5c9bc8fd9b076f573eb4ef9d906f1
+file.3=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_1a2eca459346881b9fda5b9708fc5f84f852fcf4/classes.dex
+file.2=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f41046ee26e8e8a3955a89c868dce194eaee7e6/classes.dex
+file.1=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-recyclerview_47d71b050f06ca1a5460b78f779f7f2a95ce6ec7/classes.dex
+file.0=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_29a2038188f5c9bc8fd9b076f573eb4ef9d906f1/classes.dex

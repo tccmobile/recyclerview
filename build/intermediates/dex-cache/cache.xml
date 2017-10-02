@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1dcbad85b11e4de9b310eccd84b56913ecf67163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/libs/android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16bc7316bdcb27eb2f9c0c349f8e377ad68a4094">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v7-recyclerview_47d71b050f06ca1a5460b78f779f7f2a95ce6ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/dedd8d15c5e9c12a5d6fe4c34a90d780302e9875/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f41046ee26e8e8a3955a89c868dce194eaee7e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80ea106aa3e79f67844ccaba50e5db151005d211">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5d664b1fdb6de01c027c5ba0e6106b84c3b2cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/.android/build-cache/dedd8d15c5e9c12a5d6fe4c34a90d780302e9875/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_29a2038188f5c9bc8fd9b076f573eb4ef9d906f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pastorwill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_1a2eca459346881b9fda5b9708fc5f84f852fcf4/classes.dex" />
+    </item>
+
+</items>

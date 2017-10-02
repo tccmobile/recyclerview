@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/merged/debug/layout/rowlayout.xml",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/src/main/res/layout/rowlayout.xml"
+    },
+    {
+        "merged": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/src/main/res/layout/activity_main.xml"
+    }
+]

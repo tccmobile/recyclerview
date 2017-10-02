@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Oct 02 13:51:17 CDT 2017
+2.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5d664b1fdb6de01c027c5ba0e6106b84c3b2cc4/classes.dex
+2.set=ANDROID_RESOURCE
+4.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_image_control_point_duplicate.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1dcbad85b11e4de9b310eccd84b56913ecf67163/classes.dex
+5.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_add_circle.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c5d664b1fdb6de01c027c5ba0e6106b84c3b2cc4
+1.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/layout/rowlayout.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=DEX
+0.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1dcbad85b11e4de9b310eccd84b56913ecf67163
+8.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/pastorwill/Desktop/com.vogella.android.recyclerview/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=DEX
